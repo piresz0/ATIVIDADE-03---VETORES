@@ -9,6 +9,5 @@ public class Main {
         votos[4] = 50;
 
         System.out.println(votos[2]);
-
     }
 }
