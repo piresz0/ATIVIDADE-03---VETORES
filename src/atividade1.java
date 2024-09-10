@@ -1,4 +1,4 @@
-public class Main {
+public class atividade1 {
     public static void main(String[] args) {
 
         int[] votos = new int[5];

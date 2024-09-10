@@ -12,4 +12,3 @@ public class Atividade2 {
             System.out.println(soma);
         }
     }
-}
